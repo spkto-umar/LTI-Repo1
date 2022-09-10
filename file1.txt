@@ -1,0 +1,4 @@
+This is vim file
+difficult as .....
+file.txt is name of the stipid file.
+
